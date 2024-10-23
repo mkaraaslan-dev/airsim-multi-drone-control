@@ -1,5 +1,5 @@
 
-
+'''
 {
     "SettingsVersion": 1.2,
     "SimMode": "Multirotor",
@@ -17,3 +17,4 @@
 
     }
 }
+'''
