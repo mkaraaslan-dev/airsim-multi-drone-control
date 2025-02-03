@@ -25,7 +25,7 @@
 
 ### Drone 1 Run
 
-Control  w,a,s,d <br/>
+Control with w,a,s,d <br/>
 W = + x-axis <br/>
 S = - x-axis <br/>
 D = + y-axis <br/>
@@ -36,7 +36,7 @@ python control.py
 ```
 
 ### Drone 2 Run
-Control ı,k,j,l
+Control with ı,k,j,l
 ```
 python control2.py
 ```
