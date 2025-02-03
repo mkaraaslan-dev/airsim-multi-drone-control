@@ -1,4 +1,6 @@
+# Airsim Multi Drone Control With Keyboard
 
+## Setup your airsim environment
 ```
 {
     "SettingsVersion": 1.2,
@@ -18,3 +20,17 @@
     }
 }
 ```
+
+## Run Code in Multi Terminal
+
+### Drone 1 Run
+```
+python control.py
+```
+
+### Drone 2 Run
+
+```
+python control2.py
+```
+
