@@ -34,3 +34,6 @@ python control.py
 python control2.py
 ```
 
+![dronesphoto1](https://github.com/mkaraaslan-dev/airsim-multi-drone-control/blob/main/images/2021-05-16%2003-17-24.gif)
+![dronesphoto2](https://github.com/mkaraaslan-dev/airsim-multi-drone-control/blob/main/images/2021-05-16%2003-15-38.gif)
+
