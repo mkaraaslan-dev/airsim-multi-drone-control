@@ -24,12 +24,19 @@
 ## Run Code in Multi Terminal
 
 ### Drone 1 Run
+
+Control  w,a,s,d
+W = + x-axis
+S = - x-axis
+D = + y-axis
+A = - y-axis
+
 ```
 python control.py
 ```
 
 ### Drone 2 Run
-
+Control ı,k,j,l
 ```
 python control2.py
 ```
