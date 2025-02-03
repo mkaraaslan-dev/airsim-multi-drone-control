@@ -26,10 +26,10 @@
 ### Drone 1 Run
 
 Control  w,a,s,d <br/>
-W = + x-axis
-S = - x-axis
-D = + y-axis
-A = - y-axis
+W = + x-axis <br/>
+S = - x-axis <br/>
+D = + y-axis <br/>
+A = - y-axis <br/>
 
 ```
 python control.py
